@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.border-bottom {
+    border-bottom: 1px solid #ebebeb;
+}
+
+.favorite {
+    float: right;
+}
+
+.result .delete{
+    display: none;
+}
+
